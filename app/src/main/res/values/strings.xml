@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PrayerApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next_prayer">Next Prayer</string>
+    <string name="fajr">Fajr</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="duhr">Duhr</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+    <string name="show_qibla_direction_on_map">Show Qibla Direction on Map</string>
+    <string name="current_location">Current Location</string>
+    <string name="no_cached_data_found">No cached Data found</string>
+    <string name="permission_required">You should allow the app to get toyour current location</string>
+    <string name="already_first_day">Already the 1st day of the month</string>
+</resources>
